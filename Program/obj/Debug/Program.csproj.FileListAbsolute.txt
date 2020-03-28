@@ -1,0 +1,6 @@
+d:\users\wilian henrique\onedrive - jjxy\documentos\visual studio 2015\Projects\Program\Program\bin\Debug\Program.exe.config
+d:\users\wilian henrique\onedrive - jjxy\documentos\visual studio 2015\Projects\Program\Program\bin\Debug\Program.exe
+d:\users\wilian henrique\onedrive - jjxy\documentos\visual studio 2015\Projects\Program\Program\bin\Debug\Program.pdb
+d:\users\wilian henrique\onedrive - jjxy\documentos\visual studio 2015\Projects\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+d:\users\wilian henrique\onedrive - jjxy\documentos\visual studio 2015\Projects\Program\Program\obj\Debug\Program.exe
+d:\users\wilian henrique\onedrive - jjxy\documentos\visual studio 2015\Projects\Program\Program\obj\Debug\Program.pdb
